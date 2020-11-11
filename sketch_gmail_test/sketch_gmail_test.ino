@@ -8,7 +8,7 @@ String        error_message;
 String        ServerResponse;
 //################################################
 const char*   ssid     = "Meher Bheree";                       // WIFI network name
-const char*   password = "P@ssw0rd123$";                   // WIFI network password
+const char*   password = "**********";                   // WIFI network password
 //################################################
 String Senders_Login    = "meherkiran.bheree@gmail.com";
 String Senders_Password = "********"; // your email password
